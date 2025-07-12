@@ -7,13 +7,6 @@ Este proyecto consiste en imitar la maquetación enviada para el exámen. Desarr
 
 ---
 
-![Preview del Login de la página web](assets/login.png)
-<br>
-![Preview de la bienvenida al usuario](assets/bienvenida.png)
-<br>
-![Preview del panel de indicadores](assets/panel.png)
-
-
 # ​👩‍💻​ Tecnologias utilizadas ​
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
